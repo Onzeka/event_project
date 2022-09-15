@@ -1,6 +1,5 @@
 import { StyleSheet, Text, SafeAreaView } from 'react-native';
 import { AppNavigator } from './src/app.navigator';
-import Permission from './src/app.permissions';
 
 const App = () => {
 

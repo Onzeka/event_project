@@ -1,0 +1,10 @@
+react
+react-native
+expo-localization
+react-native-vector-icons/FontAwesome
+react-native-vector-icons/AntDesign
+expo-image-picker
+js-sha256
+react-native-masked-text
+@react-navigation/native
+@react-navigation/stack
